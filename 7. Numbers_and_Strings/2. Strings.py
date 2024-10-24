@@ -17,3 +17,12 @@ print(id(a))    #Every time you run a new id is genearted
 
 print((a*3))
 
+# "in" "not in" operators along with strings which return true or false (boolean values)
+
+x= "Indian"
+
+print("Ind" in x)
+print("inds" in x)
+print("ian" not in x)
+
+
