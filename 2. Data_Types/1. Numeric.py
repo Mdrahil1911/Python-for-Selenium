@@ -1,4 +1,4 @@
-#Python is dynamically types language which doesnt need to specify datat dtypes
+#Python is dynamically types language which doesnt need to specify data types
 
 x = 100
 
