@@ -19,6 +19,15 @@
     3. Open PyCharm after installation.
     4. Set up a new project or import an existing one.
 
+**3. How to Pull a Repository in PyCharm**
+
+    1. Open PyCharm.
+    2. Go to VCS > Get from Version Control....
+    3. Enter the repo URL.
+    4. Choose a save location.
+    5. Click Clone.
+
+
 # Writing a Code in Pycharm
 
 1. Launch Pycharm
